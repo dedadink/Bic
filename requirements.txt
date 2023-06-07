@@ -1,2 +1,0 @@
-package1==1.0.0
-package2==2.3.1
